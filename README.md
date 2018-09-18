@@ -44,7 +44,7 @@ https://github.com/trekhleb/javascript-algorithms#readme
 
 ### Testing 
 
- Learn the [current testing landscape and the tools you can use](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
+- Learn the [current testing landscape and the tools you can use](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
 - Learn about the different types of tests: [Unit Tests, Integration Tests, End to End Testing](https://www.youtube.com/watch?v=vqAaMVoKz1c)
 - Learn [how to write good tests](https://www.youtube.com/watch?v=Eu35xM76kKY)
 - Learn about [TDD and BDD](https://codeutopia.net/blog/2015/03/01/unit-testing-tdd-and-bdd/)
