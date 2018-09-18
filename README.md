@@ -42,14 +42,14 @@ https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functio
 Advanced Data Structures:
 https://github.com/trekhleb/javascript-algorithms#readme
 
-### Testing 
+### Testing
 
 - Learn the [current testing landscape and the tools you can use](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
-- Learn about the different types of tests: [Unit Tests, Integration Tests, End to End Testing](https://www.youtube.com/watch?v=vqAaMVoKz1c)
-- Learn [how to write good tests](https://www.youtube.com/watch?v=Eu35xM76kKY)
-- Learn about [TDD and BDD](https://codeutopia.net/blog/2015/03/01/unit-testing-tdd-and-bdd/)
-- Learn how to write Asynchronous Tests
-- Learn how to use [Mocks, Stubs and Spies](https://www.youtube.com/watch?v=3PjdxjWK0F0&list=PL0zVEGEvSaeF_zoW9o66wa_UCNE3a7BEr&index=4)
-- Learn about [Snapshot testing](https://jestjs.io/docs/en/snapshot-testing.html)
+- Learn about the different types of tests: [Unit Tests, Integration Tests, End to End Testing](https://www.youtube.com/watch?v=vqAaMVoKz1c)
+- Learn [how to write good tests](https://www.youtube.com/watch?v=Eu35xM76kKY)
+- Learn about [TDD and BDD](https://codeutopia.net/blog/2015/03/01/unit-testing-tdd-and-bdd/)
+- Learn how to write Asynchronous Tests
+- Learn how to use [Mocks, Stubs and Spies](https://www.youtube.com/watch?v=3PjdxjWK0F0&list=PL0zVEGEvSaeF_zoW9o66wa_UCNE3a7BEr&index=4)
+- Learn about [Snapshot testing](https://jestjs.io/docs/en/snapshot-testing.html)
 
-source: https://hackernoon.com/dont-be-a-junior-developer-the-roadmap-9fde5cf384bb
+*source: https://hackernoon.com/dont-be-a-junior-developer-the-roadmap-9fde5cf384bb*
